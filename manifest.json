@@ -1,0 +1,21 @@
+{
+  "manifest_version": "2",
+  "name": "sourceLair",
+  "app": {
+    "urls": ["https://www.sourcelair.com/"],
+    "launch": {
+      "web_url": "https://www.sourcelair.com"
+    }
+  },
+  "version": "1.1",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "default_locale": "en",
+  "description": "In-browser IDE",
+  "author": "sourceLair, Limited",
+  "permissions": [
+    "unlimited_storage",
+    "notifications"
+  ]
+}
