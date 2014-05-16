@@ -6,7 +6,7 @@
     "launch": {
       "web_url": "https://www.sourcelair.com"
     }
-  },
+},
   "version": "1.1",
   "icons": {
     "128": "icon_128.png"
